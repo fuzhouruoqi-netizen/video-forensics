@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 运行产生的临时输出（保留仓库里已有的示例输出）
+*_brightness_tmp.*
